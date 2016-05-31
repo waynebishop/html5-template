@@ -2,9 +2,8 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<!-- Can do comments from here on only -->
-		<title>Home</title>				
-		<meta name="description" content="between 150 and 160 characters and unique each page">
+		<title> <?= $this->title ?> </title>				
+		<meta name="description" content="<?= $this->metaDesc ?>">
 		<link rel="stylesheet" href="css/styles.css">
 	</head>
 	<body>
