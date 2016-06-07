@@ -19,19 +19,12 @@ class ProductsController extends PageController {
 				'name' => 'Battleship',
 				'desc' => 'Board game of awesome'
 
-
-
 			],
-			
 
 			[
-
 				'name' => 'Teddy',
 				'desc' => 'Classic soft toy'
-
 			],
-
-				
 		];
 
 		// Filter the products )if requested
